@@ -13,6 +13,8 @@
 ![Screenshot (35)](https://user-images.githubusercontent.com/57000408/68390946-0264b580-0199-11ea-9771-05ae4a6fba66.png)
  
 <br/> program latihan.
+![Screenshot (36)](https://user-images.githubusercontent.com/57000408/68391100-6a1b0080-0199-11ea-9a52-d7e6d5dc83c4.png)
+
 <br/>
 <br/>
 <br/>
