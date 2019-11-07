@@ -19,20 +19,14 @@
 <br/> 3. Disini saya menggunakan fungsi "if == 0" . Artinya Jika kita menginputkan nilai " 0 " maka sistem perulangan akan berhenti. 
 <br/> 4. Dan selanjutnya sistem akan mengeluarkan nilai terbesar dari nilai yang kita inputkan tadi,  tentunya disini saya menggunakan fungsi " max " , untuk mencari nilai terbesar.
 <br/> 5. Hasil sebagai berikut. 👍👍
-<br/>
-<br/>
+
 ![Screenshot (35)](https://user-images.githubusercontent.com/57000408/68390946-0264b580-0199-11ea-9771-05ae4a6fba66.png)
- 
+<br/> 1. Modal awal pengusaha sebesar 100000000
+<br/> 2. Untuk menghitung laba perbulan maka harus diinputkan terlebih dahulu besarnya presentase keuntungan perbulan.
+<br/> 3. Selanjutnya, hasil laba perbulan akan ditampilkan. Disini anda bisa menggunakan looping berupa for, untuk menampilkan kembali jumlah laba yang telah dihitung berdasarkan presentasenya.
+<br/> 4. Terakhir akan ditampilkan jumlah laba secara keseluruhan yang didapat dengan menggunakan sum. Berikut
+
 <br/> program latihan.
 ![Screenshot (36)](https://user-images.githubusercontent.com/57000408/68391100-6a1b0080-0199-11ea-9a52-d7e6d5dc83c4.png)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+ 
