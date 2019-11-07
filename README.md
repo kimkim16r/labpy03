@@ -21,12 +21,14 @@
 <br/> 5. Hasil sebagai berikut. 👍👍
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/57000408/68390946-0264b580-0199-11ea-9771-05ae4a6fba66.png)
-<br/> 1. Modal awal pengusaha sebesar 100000000
-<br/> 2. Untuk menghitung laba perbulan maka harus diinputkan terlebih dahulu besarnya presentase keuntungan perbulan.
-<br/> 3. Selanjutnya, hasil laba perbulan akan ditampilkan. Disini anda bisa menggunakan looping berupa for, untuk menampilkan kembali jumlah laba yang telah dihitung berdasarkan presentasenya.
-<br/> 4. Terakhir akan ditampilkan jumlah laba secara keseluruhan yang didapat dengan menggunakan sum. Berikut
+<br/> 1. Modal awal pengusaha sebesar a = 100000000
+<br/> 2. Inputkan presentase laba per bulan, untuk mengetahui keutungan yang di dapat. 
+<br/> 3. Gunakan fungsi " for", untuk menampilkan kembali jumlah laba yang telah dihitung berdasarkan presentasenya.
+<br/> 4. Dan terakhir jumlah laba akan di hitung secara keseluruhan,  disini saya menggunakan fungsi " Sum ". Hasil sebagai berikut.
 
 <br/> program latihan.
 ![Screenshot (36)](https://user-images.githubusercontent.com/57000408/68391100-6a1b0080-0199-11ea-9a52-d7e6d5dc83c4.png)
 
+
+<br/> Terima kasih. 
  
