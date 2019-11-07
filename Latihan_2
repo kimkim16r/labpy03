@@ -1,1 +1,9 @@
 
+daftar1 = []
+n=int(input("masukan bilangan :"))
+for i in range (5):
+    a=int  (input("masukan bilangan :"))
+    daftar1.append (a)
+    if a==0:
+        break
+print ("nilai terbesar adalah: " ,max (daftar1))
