@@ -26,7 +26,7 @@
 <br/> 1. Modal awal pengusaha sebesar a = 100000000
 <br/> 2. Inputkan presentase laba per bulan, untuk mengetahui keutungan yang di dapat. 
 <br/> 3. Gunakan fungsi " for", untuk menampilkan kembali jumlah laba yang telah dihitung berdasarkan presentasenya.
-<br/> 4. Dan terakhir jumlah laba akan di hitung secara keseluruhan,  disini saya menggunakan fungsi " Sum ". Hasil sebagai berikut.
+<br/> 4. Dan terakhir jumlah laba akan di hitung secara keseluruhan,  disini saya menggunakan fungsi " Sum ". Hasil sebagai berikut.👍👍
 
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/57000408/68391100-6a1b0080-0199-11ea-9a52-d7e6d5dc83c4.png)
